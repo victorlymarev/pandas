@@ -1,6 +1,6 @@
-;product_name;brand;product_id;variant_id;commodity_id;gender;is_no_size;is_one_size;product_type
-0;Monki high neck knitted jumper in scenic print;Monki;203952650;203952673;23938;Women;False;False;Джемперы
-1;Puma Football Park t-shirt in dark grey print;Puma;204160230;204160247;5729;Men;False;False;Футболки
-2;Jordan essential tank top in black;Jordan;201479721;201479731;24092;Women;False;False;Жилеты
-3;Only & Sons oversized shirt in navy stripe ;Only & Sons;203998036;203998057;1744;Men;False;False;Рубашки
-4;NA-KD plunge halter neck swimsuit in white;NA-KD;201696438;201696442;29077;Women;False;False;Купальники
+product_name;brand;product_id;variant_id;commodity_id;gender;is_no_size;is_one_size;product_type
+Monki high neck knitted jumper in scenic print;Monki;203952650;203952673;23938;Women;False;False;Джемперы
+Puma Football Park t-shirt in dark grey print;Puma;204160230;204160247;5729;Men;False;False;Футболки
+Jordan essential tank top in black;Jordan;201479721;201479731;24092;Women;False;False;Жилеты
+Only & Sons oversized shirt in navy stripe ;Only & Sons;203998036;203998057;1744;Men;False;False;Рубашки
+NA-KD plunge halter neck swimsuit in white;NA-KD;201696438;201696442;29077;Women;False;False;Купальники
